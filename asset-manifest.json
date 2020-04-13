@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Primalpleasureapp/static/css/main.4000e68a.chunk.css",
+    "main.js": "/Primalpleasureapp/static/js/main.cc4e65f4.chunk.js",
+    "main.js.map": "/Primalpleasureapp/static/js/main.cc4e65f4.chunk.js.map",
+    "runtime-main.js": "/Primalpleasureapp/static/js/runtime-main.aae9c4a7.js",
+    "runtime-main.js.map": "/Primalpleasureapp/static/js/runtime-main.aae9c4a7.js.map",
+    "static/css/2.1417c86a.chunk.css": "/Primalpleasureapp/static/css/2.1417c86a.chunk.css",
+    "static/js/2.127b08b1.chunk.js": "/Primalpleasureapp/static/js/2.127b08b1.chunk.js",
+    "static/js/2.127b08b1.chunk.js.map": "/Primalpleasureapp/static/js/2.127b08b1.chunk.js.map",
+    "index.html": "/Primalpleasureapp/index.html",
+    "precache-manifest.4606d2e4bfc6af8ee6ec116ab1850686.js": "/Primalpleasureapp/precache-manifest.4606d2e4bfc6af8ee6ec116ab1850686.js",
+    "service-worker.js": "/Primalpleasureapp/service-worker.js",
+    "static/css/2.1417c86a.chunk.css.map": "/Primalpleasureapp/static/css/2.1417c86a.chunk.css.map",
+    "static/css/main.4000e68a.chunk.css.map": "/Primalpleasureapp/static/css/main.4000e68a.chunk.css.map",
+    "static/js/2.127b08b1.chunk.js.LICENSE.txt": "/Primalpleasureapp/static/js/2.127b08b1.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/Primalpleasureapp/static/media/logo.f5abb3d6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aae9c4a7.js",
+    "static/css/2.1417c86a.chunk.css",
+    "static/js/2.127b08b1.chunk.js",
+    "static/css/main.4000e68a.chunk.css",
+    "static/js/main.cc4e65f4.chunk.js"
+  ]
+}
