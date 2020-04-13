@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Primalpleasureapp/precache-manifest.4606d2e4bfc6af8ee6ec116ab1850686.js"
+  "/Primalpleasureapp/precache-manifest.a8ba2f9f8ca280e2c61f2c498a9df48e.js"
 );
 
 self.addEventListener('message', (event) => {
