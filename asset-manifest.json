@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Primalpleasureapp/static/css/main.4000e68a.chunk.css",
-    "main.js": "/Primalpleasureapp/static/js/main.e4b63c8e.chunk.js",
-    "main.js.map": "/Primalpleasureapp/static/js/main.e4b63c8e.chunk.js.map",
-    "runtime-main.js": "/Primalpleasureapp/static/js/runtime-main.aae9c4a7.js",
-    "runtime-main.js.map": "/Primalpleasureapp/static/js/runtime-main.aae9c4a7.js.map",
-    "static/css/2.1417c86a.chunk.css": "/Primalpleasureapp/static/css/2.1417c86a.chunk.css",
-    "static/js/2.444ece29.chunk.js": "/Primalpleasureapp/static/js/2.444ece29.chunk.js",
-    "static/js/2.444ece29.chunk.js.map": "/Primalpleasureapp/static/js/2.444ece29.chunk.js.map",
-    "index.html": "/Primalpleasureapp/index.html",
-    "precache-manifest.a8ba2f9f8ca280e2c61f2c498a9df48e.js": "/Primalpleasureapp/precache-manifest.a8ba2f9f8ca280e2c61f2c498a9df48e.js",
-    "service-worker.js": "/Primalpleasureapp/service-worker.js",
-    "static/css/2.1417c86a.chunk.css.map": "/Primalpleasureapp/static/css/2.1417c86a.chunk.css.map",
-    "static/css/main.4000e68a.chunk.css.map": "/Primalpleasureapp/static/css/main.4000e68a.chunk.css.map",
-    "static/js/2.444ece29.chunk.js.LICENSE.txt": "/Primalpleasureapp/static/js/2.444ece29.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/Primalpleasureapp/static/media/logo.f5abb3d6.png"
+    "main.css": "/Primalpleasuresapp/static/css/main.4000e68a.chunk.css",
+    "main.js": "/Primalpleasuresapp/static/js/main.5c44ad5c.chunk.js",
+    "main.js.map": "/Primalpleasuresapp/static/js/main.5c44ad5c.chunk.js.map",
+    "runtime-main.js": "/Primalpleasuresapp/static/js/runtime-main.cc5c7610.js",
+    "runtime-main.js.map": "/Primalpleasuresapp/static/js/runtime-main.cc5c7610.js.map",
+    "static/css/2.1417c86a.chunk.css": "/Primalpleasuresapp/static/css/2.1417c86a.chunk.css",
+    "static/js/2.444ece29.chunk.js": "/Primalpleasuresapp/static/js/2.444ece29.chunk.js",
+    "static/js/2.444ece29.chunk.js.map": "/Primalpleasuresapp/static/js/2.444ece29.chunk.js.map",
+    "index.html": "/Primalpleasuresapp/index.html",
+    "precache-manifest.861cab19cf2d05cde5b78510bfaa95a7.js": "/Primalpleasuresapp/precache-manifest.861cab19cf2d05cde5b78510bfaa95a7.js",
+    "service-worker.js": "/Primalpleasuresapp/service-worker.js",
+    "static/css/2.1417c86a.chunk.css.map": "/Primalpleasuresapp/static/css/2.1417c86a.chunk.css.map",
+    "static/css/main.4000e68a.chunk.css.map": "/Primalpleasuresapp/static/css/main.4000e68a.chunk.css.map",
+    "static/js/2.444ece29.chunk.js.LICENSE.txt": "/Primalpleasuresapp/static/js/2.444ece29.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/Primalpleasuresapp/static/media/logo.f5abb3d6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.aae9c4a7.js",
+    "static/js/runtime-main.cc5c7610.js",
     "static/css/2.1417c86a.chunk.css",
     "static/js/2.444ece29.chunk.js",
     "static/css/main.4000e68a.chunk.css",
-    "static/js/main.e4b63c8e.chunk.js"
+    "static/js/main.5c44ad5c.chunk.js"
   ]
 }
